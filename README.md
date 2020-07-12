@@ -8,20 +8,22 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Learn](#learn)
-  - [Tutorials](#tutorials)
-- [Examples](#examples)
-  - [Apps](#apps)
-  - [Snippets](#snippets)
-  - [Starter kits](#starter-kits)
-- [Testing](#testing)
-- [Libraries, Components & Plugins](#libraries-components--plugins)
-- [Tools](#tools)
-- [pre 1.0 Release](#pre-10-release)
-- [Mithril in the Wild](#mithril-in-the-wild)
-- [License](#license)
+- [Awesome Mithril ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-mithril-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+  - [Contents](#contents)
+    - [Official Resources](#official-resources)
+    - [Community](#community)
+    - [Learn](#learn)
+      - [Tutorials](#tutorials)
+    - [Examples](#examples)
+      - [Apps](#apps)
+      - [Snippets](#snippets)
+      - [Starter kits](#starter-kits)
+    - [Testing](#testing)
+    - [Libraries, Components & Plugins](#libraries-components--plugins)
+    - [Tools](#tools)
+    - [pre 1.0 Release](#pre-10-release)
+    - [Mithril in the Wild](#mithril-in-the-wild)
+    - [License](#license)
 
 ### Official Resources
 
@@ -82,6 +84,7 @@ Mithril is a modern client-side JavaScript framework for building Single Page Ap
 - [Game development with Mithril/THREE.js/Typescript](https://github.com/spacejack/three-mithril-ts)
 - [Mithril Starter Project with Rollup, Babel, LiveReload, Jest and ESLint](https://github.com/ArthurClemens/mithril-starter-rollup)
 - [mithril-starter-kit](https://github.com/dhinesh03/mithril-starter-kit) -  A boilerplate Mithril application using Webpack 4, ES6, Sass/SCSS, Js and scss hot reload and eslint
+- [sourcestack](https://github.com/stackplanet/sourcestack) - An adaptable template for full-stack Typescript web apps on AWS, using Mithril on the front end.
 
 ### Testing
 
